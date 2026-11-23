@@ -1,0 +1,10 @@
+Toyota Camry 28000
+Honda Civic 25000
+Ford Mustang 35000
+Chevrolet Malibu 27000
+Nissan Altima 26000
+BMW 330i 45000
+Mercedes C300 47000
+Hyundai Sonata 29000
+Kia K5 26000
+Tesla Model3 42000
